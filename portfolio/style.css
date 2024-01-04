@@ -1,0 +1,134 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 80vw;
+}
+
+.navbar {
+    display: flex;
+    height: 40px;
+    margin-top: 20px;
+}
+
+.navbar li {
+    list-style: none;
+    margin: 0 50px;
+}
+
+.topleft {
+    width: 50%;
+    padding: 0 12px;
+}
+
+.topright {
+    width: 50%;
+    height: 50vh;
+    margin-top: 8vh;
+
+
+}
+
+.img-dev {
+
+    width: 15cm;
+    height: 70vh;
+    margin-left: 29px;
+
+}
+
+.position {
+    margin-left: 20vh;
+    margin-top: 50cm;
+    vertical-align: middle;
+}
+
+.section1 {
+    height: 80vh;
+}
+
+.secondSection {
+    max-width: 80vw;
+    margin: auto;
+    color: white;
+    height: 80vh;
+
+}
+
+main hr {
+    border: 0;
+    background: #9c9c9c;
+    height: 1px;
+    margin: 5px 24px;
+}
+
+.secondSectionh1 {
+    font-size: 1.9rem;
+
+}
+
+.chavan {
+    margin-top: 1vh;
+}
+
+.fan {
+    margin-top: 10vh;
+}
+
+.secondSection .box {
+    background: white;
+    width: 80vw;
+    height: 2px;
+    margin: 56px 0;
+    display: flex;
+
+}
+
+.secondSection .vertical {
+    height: 93px;
+    width: 1px;
+    background-color: white;
+    margin: 0 100px;
+}
+
+.cont {
+    height: 30vh;
+    background-color: rgb(34, 8, 82);
+    color: grey;
+
+}
+
+.sky {
+    text-align: center;
+    padding-top: 12px;
+}
+
+.link {
+
+    margin-left: 550px;
+    text-decoration: none;
+    color: gray;
+}
+
+.lik {
+    margin-top: 12px;
+    text-align: center;
+    margin-left: 5vh;
+    text-decoration: none;
+    color: gray;
+}
+
+.ink {
+
+    text-align: center;
+    margin-left: 5vh;
+    text-decoration: none;
+    color: gray;
+}
+
+.container1 {
+    padding-top: 12px;
+
+}
